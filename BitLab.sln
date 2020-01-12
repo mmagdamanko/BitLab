@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitLab", "BitLab\BitLab.csproj", "{462FECDB-F588-408C-8EF2-A3228285FEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462FECDB-F588-408C-8EF2-A3228285FEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462FECDB-F588-408C-8EF2-A3228285FEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462FECDB-F588-408C-8EF2-A3228285FEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462FECDB-F588-408C-8EF2-A3228285FEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
